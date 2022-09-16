@@ -1,3 +1,8 @@
+/*  Calculadora:
+    O usuário digita 2 números e uma operação e o computador faz a conta
+    a depender da operação fornecida
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>

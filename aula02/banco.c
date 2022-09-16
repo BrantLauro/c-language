@@ -1,3 +1,11 @@
+/*  
+    Faça um programa que declare variáveis de tipos apropriados para dados de Movimentações
+    de Contas Bancárias (NúmeroMovimentação, Valor, NúmerodoDocumento, (D)ebito e (C)redito).
+    Em seguida solicite a digitação dos dados e imprima-os no formato:
+    Número D/C Valor Documento
+      0001  C  50.00       001
+*/
+
 #include <stdio.h>
 
 int main() {
