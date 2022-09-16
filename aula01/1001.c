@@ -1,3 +1,9 @@
+/*
+    Leia 2 valores inteiros e armazene-os nas variáveis num1 e num2. 
+    Efetue a soma de num1 e num2 atribuindo o seu resultado na variável soma.
+    Apresente o resultado na tela.
+*/
+
 #include <stdio.h>
 
 int main () {

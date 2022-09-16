@@ -1,4 +1,5 @@
-/*  Jogo da Adivinhação:
+/*  
+    Jogo da Adivinhação:
     O computador gera um número aleatório e o usuário tenta acertar
 */
 

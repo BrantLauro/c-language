@@ -1,3 +1,7 @@
+/*
+    Leia quatro valores inteiros num1, num2, num3 e num4. A seguir, calcule e mostre a diferença do produto de num1 e num2 pelo produto de num3 e num4 segundo a fórmula: DIFERENCA = (num1 * num2 - num3 * num4).
+*/
+
 #include <stdio.h>
 
 int main() {

@@ -1,4 +1,5 @@
-/*  Calculadora:
+/*  
+    Calculadora:
     O usuário digita 2 números e uma operação e o computador faz a conta
     a depender da operação fornecida
 */
