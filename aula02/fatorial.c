@@ -27,4 +27,3 @@ int main() {
     for (fat = 1; num > 1; num--) fat *= num;
     printf("\n !%d = %d", numf, fat);
 }
-
