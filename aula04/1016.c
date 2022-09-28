@@ -6,3 +6,12 @@
     Leia a distância (em Km) e calcule quanto tempo leva (em minutos) para o carro Y 
     tomar essa distância do outro carro.
 */
+
+#include <stdio.h>
+
+int main() {
+    int dist;
+    scanf("%d", &dist);
+    printf("%d minutos\n", (dist * 2));
+    return 0;
+}
