@@ -5,3 +5,13 @@
     Assim, pode-se obter distância percorrida e, em seguida, calcular quantos litros seriam necessários. 
     Mostre o valor com 3 casas decimais após o ponto.
 */
+
+#include <stdio.h>
+
+int main() {
+    int velocidade, tempo; double litros;
+    scanf("%d %d", &velocidade, &tempo);
+    litros = (velocidade * tempo) / 12.0;
+    printf("%.3lf\n", litros);
+    return 0;
+}
