@@ -4,7 +4,7 @@ int crescimento(int p1, int p2, double t1, double t2) {
     for(anos = 0; p1 <= p2;) {
         p1 += (p1 * t1)/100;
         p2 += (p2 * t2)/100;
-        anos++
+        anos++;
         if(anos > 100) {
             return -1;
             break;
