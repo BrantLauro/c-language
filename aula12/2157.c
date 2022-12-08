@@ -2,7 +2,7 @@
 #include <string.h>
 
 int main() {
-    int testes, aux, cont, A, B; char str[100], inversor[100], vazia[100];
+    int testes, aux, cont, A, B; char str[12221*5], inversor[12221*5], vazia[12221*5];
     scanf("%d", &testes);
     for(int i = 0; i < testes; i++) {
         scanf("%d %d", &A, &B);
